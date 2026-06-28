@@ -291,5 +291,5 @@
         // Keep spawning balloons
         setInterval(createBalloon, 800);
     </script>
-</body>
+
 
