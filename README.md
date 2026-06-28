@@ -169,7 +169,7 @@
         <!-- Birthday Photo -->
         <div class="photo-container">
             <!-- Replace the URL below with your own photo file path (e.g., "birthday-girl.jpg") -->
-            <img src="she.png" alt="Birthday Person">
+            <img src="her.png" alt="Birthday Person">
         </div>
 
         <h1>Happy Birthday, Name! 🎂</h1>
