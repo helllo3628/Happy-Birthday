@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Happy Birthday! 🎉</title>
+    <title>Happy Birthday bluuebvrry🎉</title>
     <style>
         :root {
             --primary-pink: #ff758c;
