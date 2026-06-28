@@ -159,6 +159,10 @@
             90% { opacity: 1; }
             100% { transform: translateY(-280px); opacity: 0; }
         }
+        p{
+          color:blue;
+          font-size:45px;
+        }
     </style>
 </head>
 <body>
@@ -169,17 +173,15 @@
         <!-- Birthday Photo -->
         <div class="photo-container">
             <!-- Replace the URL below with your own photo file path (e.g., "birthday-girl.jpg") -->
-            <img src="her.png" alt="Birthday Person">
+            <img src="Her.png" alt="Birthday Person">
         </div>
 
-        <h1>Happy Birthday, Name! 🎂</h1>
-        <p class="wishes">
-            Wishing you a day filled with laughter, love, and lots of cake! May this year bring you endless joy and success. ✨
+        <h1>Happy Birthday bluuebvrry 🎂</h1>
+        <p class="wishes"> Haii..👋🏻, Happy birthday yaa. Panjang umur dan sehat selalu, semoga apa yang kamu cita-citakan semuanya tercapai. Wish you always all the best, god bless you</p>
+            ✨
         </p>
 
         <button class="btn" onclick="burstConfetti()">Celebrate! 🎉</button>
-    </div>
-
     <!-- Interactive Game Zone -->
     <p class="game-instruction">🎈 Pop the balloons for a surprise! 🎈</p>
     <div class="game-zone" id="game-zone"></div>
