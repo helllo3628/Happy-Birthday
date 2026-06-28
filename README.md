@@ -179,7 +179,7 @@
         <h1>Happy Birthday bluuebvrry 🎂</h1>
         <p class="wishes"> Haii..👋🏻, Happy birthday yaa. Panjang umur dan sehat selalu, semoga apa yang kamu cita-citakan semuanya tercapai. Wish you always all the best, god bless you</p>
             ✨
-        </p>
+        
 
         <button class="btn" onclick="burstConfetti()">Celebrate! 🎉</button>
     <!-- Interactive Game Zone -->
@@ -292,4 +292,4 @@
         setInterval(createBalloon, 800);
     </script>
 </body>
-</html>
+
